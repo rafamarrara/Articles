@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hacker attacks in Cloud environments are more common than you can image. One of the reasons for this is that the public IPs used by most cloud providers are listed on the internet. You can download the list of Azure's IPs [here](https://www.microsoft.com/en-us/download/details.aspx?id=41653). Hackers are using this information to search for vulnerabilities to exploit.
+Hacker attacks in Cloud environments are more common than you can imagine. One of the reasons for this is that the public IPs used by most cloud providers are listed on the internet. You can download the list of Azure's IPs [here](https://www.microsoft.com/en-us/download/details.aspx?id=41653). Hackers are using this information to search for vulnerabilities to exploit.
 
 The [Brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack) is where a malicious individual tries to find out a valid username and password to get access to your environment. Put simply, the attack consists in subsequent attempts to logon using a list of common usernames and password. If the credentials are easy to guess, the attacker will be able to access your environment.
 
